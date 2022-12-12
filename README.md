@@ -70,3 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 2. Daniel de Jesús Peraza Batun.
 3. Jorge Guadalupe Poot Carrillo.
 4. Indra Michelle Tzab Chan
+
+## Video:
+
+[Video](https://youtu.be/lZNgbJpbGiU)
